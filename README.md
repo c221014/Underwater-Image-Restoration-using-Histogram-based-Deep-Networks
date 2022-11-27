@@ -2,7 +2,7 @@
 中文題目：基於深度直方圖網路之水下影像還原模型
 
 ## Restored Result
-We apply our method of restoration to the video
+We apply our method of restoration to the videos
 
 https://user-images.githubusercontent.com/39271484/204129586-8c04cbc1-55a2-479b-889a-414467a0514c.mp4
 
